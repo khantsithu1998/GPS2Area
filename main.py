@@ -102,3 +102,4 @@ try:
     plot_shape(x, y)
 except Exception as e:
     print(f"❌ Error: {e}")
+g
