@@ -1,4 +1,4 @@
-# Area Calculation Program
+# GPS2Area
 
 ## Overview
 This program calculates the area of a user-defined shape based on GPS coordinates (latitude and longitude). It utilizes various mathematical methods to estimate the area, including the Trapezoidal Rule, Shoelace Theorem, Spherical Polygon Method, and GIS-based calculations using the Shapely library. The results can be visualized in a plot and saved in GeoJSON format for further use.
